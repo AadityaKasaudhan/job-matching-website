@@ -11,14 +11,14 @@ A job matching website built with React, Node.js, Express, and MongoDB. This pla
 ## Technologies Used
 
 1 - Frontend: React
-    - Bootstrap
-    - React-router-dom
-    - axios
+    , Bootstrap
+    , React-router-dom
+    , axios
     
 2- Backend: Node.js, Express
-    - bycrypt
-    - json-web-token
-    - cookie-parser
+    , bycrypt
+    , json-web-token
+    , cookie-parser
     
 3- Database: MongoDB
 
